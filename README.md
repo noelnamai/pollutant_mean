@@ -38,4 +38,4 @@ pollutantmean <- function(directory, pollutant, id = 1:332) {
 }
 ```
 
-You can see some example output from this function. The function that you write should be able to match this output. Please save your code to a file named pollutantmean.R.
+You can see some [example output](https://d396qusza40orc.cloudfront.net/rprog%2Fdoc%2Fpollutantmean-demo.html) from this function. The function that you write should be able to match this output. Please save your code to a file named pollutantmean.R.
